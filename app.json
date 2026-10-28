@@ -28,6 +28,3 @@
   "buildpacks": [
     {
       "url": "heroku/python"
-    }
-  ]
-}
